@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, me llamo Darío</h1>
+<h1 align="center">Hola 👋, me llamo Darío</h1>
 <h3 align="center">Soy un desarrollador front-end de 19 años</h3>
 
 <p align="center">
