@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Darío</h1>
-<h3 align="center">Soy un desarrollador front-end de 19 años</h3>
+<h3 align="center">Soy un desarrollador full stack de 20 años</h3>
 
 <p align="center">
    <img alt="github" src="programmerLife.gif" />
